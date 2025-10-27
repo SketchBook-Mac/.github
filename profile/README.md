@@ -1,7 +1,7 @@
 # SketchBook Pro – Creative Drawing & Digital Illustration Studio
 
 <div align="center">  
-  <img src="https://static.macupdate.com/products/36372/l/autodesk-sketchbook-logo.png?v=1591091247" width="300"/>  
+  <img src="https://macx.ws/uploads/posts/2020-04/1586334660_sketchbookpro.png" width="350"/>  
 </div>  
 <br>  
 <div align="center">  
